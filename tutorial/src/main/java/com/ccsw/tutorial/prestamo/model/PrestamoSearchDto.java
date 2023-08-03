@@ -6,7 +6,6 @@ import com.ccsw.tutorial.common.pagination.PageableRequest;
  * @author ccsw
  *
  */
-
 public class PrestamoSearchDto {
     private PageableRequest pageable;
 
